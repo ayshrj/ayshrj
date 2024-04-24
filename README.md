@@ -52,5 +52,6 @@
 🔗 **Connect with me**
 - [LinkedIn](https://www.linkedin.com/in/ayush-raj-b1359a249/)
 - [GitHub](https://github.com/ayshrj)
+- 📧 **Email**: [ayshrj10@gmail.com](mailto:ayshrj10@gmail.com)
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-raj-b1359a249/) or check out my [GitHub](https://github.com/ayshrj) to see more about my projects and experiences.
+Feel free to connect with me on LinkedIn or check out my GitHub to see more about my projects and experiences.
