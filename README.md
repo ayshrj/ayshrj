@@ -37,9 +37,20 @@
 
 ## 🌟 Other Skills
 
-- **Competitive Programming**: 5-star coder on CodeChef (Global Rank: 811, Country Rank: 380).
-- **Problem Solving**: Solved 400+ problems on LeetCode.
+- **Competitive Programming**: 5-star coder on [CodeChef](https://www.codechef.com/users/eren_yeager108) (Global Rank: 811, Country Rank: 380).
+- **Problem Solving**: Solved 400+ problems on [LeetCode](https://leetcode.com/ayshrj10).
+
+## 🚀 Projects
+
+- [Gaming Project](https://github.com/ayshrj/gaming-project)
+- [Video Player](https://github.com/ayshrj/video-player)
+- [Chat Application](https://github.com/ayshrj/chat-application)
+- [Quiz App](https://github.com/ayshrj/quiz-app)
 
 ---
 
-Feel free to connect with me on [LinkedIn](#) or check out my projects on [GitHub](#)!
+🔗 **Connect with me**
+- [LinkedIn](https://www.linkedin.com/in/ayush-raj-b1359a249/)
+- [GitHub](https://github.com/ayshrj)
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-raj-b1359a249/) or check out my [GitHub](https://github.com/ayshrj) to see more about my projects and experiences.
