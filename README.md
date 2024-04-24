@@ -9,6 +9,11 @@
   - Jan 2020 – Present
   - Noida, Uttar Pradesh
 
+## 🏆 Achievements
+
+- **Competitive Programming**: 5-star coder on [CodeChef](https://www.codechef.com/users/eren_yeager108) (Global Rank: 811, Country Rank: 380).
+- **Problem Solving**: Solved 400+ problems on [LeetCode](https://leetcode.com/ayshrj10).
+
 ## 💼 Experience
 
 ### Jaypee Institute of Information Technology, Noida
@@ -34,11 +39,6 @@
 - **Frameworks**: React.js, Node.js
 - **Databases**: MongoDB, MySQL
 - **Developer Tools**: Visual Studio Code, Git
-
-## 🌟 Other Skills
-
-- **Competitive Programming**: 5-star coder on [CodeChef](https://www.codechef.com/users/eren_yeager108) (Global Rank: 811, Country Rank: 380).
-- **Problem Solving**: Solved 400+ problems on [LeetCode](https://leetcode.com/ayshrj10).
 
 ## 🚀 Projects
 
