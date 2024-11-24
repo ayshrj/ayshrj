@@ -1,57 +1,88 @@
+
+
 # Ayush Raj
 
-👋 Hi, I'm Ayush! I'm currently pursuing a Bachelor of Technology in Computer Science at Jaypee Institute of Information Technology, Noida. I'm passionate about software development and am always eager to tackle challenging problems and collaborate on innovative projects.
+**Mobile**: [+91-9650637189](tel:+919650637189)  
+**Email**: [ayshrj10@gmail.com](mailto:ayshrj10@gmail.com)  
+**LinkedIn**: [linkedin.com/in/ayushrj/](https://www.linkedin.com/in/ayushrj/)  
+**GitHub**: [github.com/ayshrj](https://github.com/ayshrj)  
+**Website**: [ayushr.vercel.app](https://ayushr.vercel.app/)  
+**D.O.B.**: 10th December, 2001
 
-## 🎓 Education
+## Education
 
-- **Jaypee Institute of Information Technology**
-  - Bachelor of Technology in Computer Science
-  - Jan 2020 – Present
-  - Noida, Uttar Pradesh
+**Jaypee Institute of Information Technology**, Noida  
+_B.Tech in Computer Science_  
+Jan 2020 – June 2024
 
-## 🏆 Achievements
+## Work Experience
 
-- **Competitive Programming**: 5-star coder on [CodeChef](https://www.codechef.com/users/eren_yeager108) (Global Rank: 811, Country Rank: 380).
-- **Problem Solving**: Solved 400+ problems on [LeetCode](https://leetcode.com/ayshrj10).
+**GameChange**, New Delhi  
+_Full-stack Developer_  
+Apr 2024 – Present
+- Developed a web app with Kanban boards and comment sections.
+- Created APIs for NBoard AI project.
+- Designed UI for Goshopkey e-commerce site.
 
-## 💼 Experience
+**Teenvest Fintech Pvt. Ltd.**, Bengaluru  
+_Software Developer Intern_  
+Jul 2022 – Oct 2022
+- Enhanced a Flutter-based fitness app, resolving 90% of issues.
+- Designed interactive game features using Unreal Engine.
 
-### Jaypee Institute of Information Technology, Noida
-- **CoE Intern (Remote – Noida)**
-  - June 2023 – July 2023
-  - Key Achievements:
-    - Developed a personalized study material suggesting application for 500+ users.
-    - Increased project efficiency by 20% through streamlined processes using DMAIC practices.
-    - Improved user engagement by 15% by implementing enhanced user preference analysis algorithms.
-    - Boosted optimal learning outcomes by 30% through collaborative recommendation tuning.
+**Jaypee Institute of Information Technology**, Remote  
+_CoE Intern_  
+Jun 2023 – Jul 2023
+- Built a study material app for 500+ users.
+- Increased project efficiency by 20% with DMAIC.
+- Boosted user engagement and learning outcomes by implementing advanced algorithms.
 
-### Teenvest Fintech Pvt. Ltd.
-- **Software Developer Intern (Remote – Bangalore)**
-  - Jul 2022 – Oct 2022
-  - Key Achievements:
-    - Enhanced a Flutter-based fitness app and contributed to the development of an immersive boxing game using Unreal Engine.
-    - Resolved 90% of reported issues through rigorous testing and debugging.
-    - Increased development efficiency by 15% through active participation in team discussions.
+## Projects
 
-## 🛠 Technical Skills
+**FrameView Video Player**  
+[frameview.vercel.app](https://frameview.vercel.app/)  
+*ReactJS, TypeScript, NodeJS, Socket.io*
+- Feature-rich video player with playlist and remote control features.
+- Integrated TMDb API for detailed media information.
 
-- **Programming Languages**: C++, C, HTML, CSS, Javascript
-- **Frameworks**: React.js, Node.js
-- **Databases**: MongoDB, MySQL
-- **Developer Tools**: Visual Studio Code, Git
+**Trivis**  
+[trivis.vercel.app](https://trivis.vercel.app/)  
+*ReactJS, TypeScript, GeminiAI, TailwindCSS*
+- Dynamic quiz app with real-time feedback and AI-generated questions.
 
-## 🚀 Projects
+**Lineo**  
+[lineo.vercel.app](https://lineo.vercel.app/)  
+*ReactJS, TypeScript, CSS*
+- Efficient drawing application with various tools and smooth performance.
+- Supports dragging objects, pinch-to-zoom, and undo/redo functionalities.
 
-- [Gaming Project](https://github.com/ayshrj/gaming-project)
-- [Video Player](https://github.com/ayshrj/video-player)
-- [Chat Application](https://github.com/ayshrj/chat-application)
-- [Quiz App](https://github.com/ayshrj/quiz-app)
+**Weave**  
+[weave.vercel.app](https://weave.vercel.app/)  
+*ReactJS, TypeScript, TailwindCSS*
+- Versatile web builder with drag-and-drop functionality and customizable themes.
+- Ideal for quick website prototyping with elements like headers and testimonials.
 
----
+**Play Arcade**  
+[playarcade.vercel.app](https://playarcade.vercel.app/)  
+*NextJS, TailwindCSS, Firebase*
+- Interactive arcade featuring games like Sudoku, Pac-Man, and Chess.
+- User login, high score tracking, and leaderboards for competitive play.
 
-🔗 **Connect with me**
-- [LinkedIn](https://www.linkedin.com/in/ayush-raj-b1359a249/)
-- [GitHub](https://github.com/ayshrj)
-- 📧 **Email**: [ayshrj10@gmail.com](mailto:ayshrj10@gmail.com)
+**Blink Convo**  
+[blinkconvo.vercel.app](https://blinkconvo.vercel.app/)  
+*ReactJS, NodeJS, MongoDB, CSS*
+- Real-time chat application with media sharing and customizable avatars.
+- Supports one-on-one conversations with a modern interface.
 
-Feel free to connect with me on LinkedIn or check out my GitHub to see more about my projects and experiences.
+## Skills
+
+- **Languages**: C++, C, JavaScript, TypeScript, HTML, CSS
+- **Frameworks**: React.js, Node.js, Next.js, Tailwind CSS
+- **Databases**: MongoDB, MySQL, Firebase
+- **Tools**: Git, Visual Studio Code
+
+## Achievements
+
+- **CodeChef**: 5-star coder, Global Rank 811, [Profile](https://www.codechef.com/users/eren_yeager108)
+- **LeetCode**: Contest rating of 1840, [Profile](https://leetcode.com/ayshrj10)
+
