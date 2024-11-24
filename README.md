@@ -84,5 +84,5 @@ Jun 2023 – Jul 2023
 ## Achievements
 
 - **CodeChef**: 5-star coder, Global Rank 811, [Profile](https://www.codechef.com/users/eren_yeager108)
-- **LeetCode**: Contest rating of 1840, [Profile](https://leetcode.com/ayshrj10)
+- **LeetCode**: Contest rating of 1840, [Profile](https://leetcode.com/ayshrj)
 
