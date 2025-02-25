@@ -2,7 +2,6 @@
 
 # Ayush Raj
 
-**Mobile**: [+91-9650637189](tel:+919650637189)  
 **Email**: [ayshrj10@gmail.com](mailto:ayshrj10@gmail.com)  
 **LinkedIn**: [linkedin.com/in/ayushrj/](https://www.linkedin.com/in/ayushrj/)  
 **GitHub**: [github.com/ayshrj](https://github.com/ayshrj)  
