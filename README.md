@@ -49,6 +49,13 @@ Jun 2023 – Jul 2023
 *ReactJS, TypeScript, GeminiAI, TailwindCSS*
 - Dynamic quiz app with real-time feedback and AI-generated questions.
 
+**Play Arc**  
+[playarc.vercel.app](https://playarc.vercel.app/)  
+*Next.js, TailwindCSS, Firebase*  
+- A sleek, modern, minimalist arcade featuring 20+ interactive games.  
+- Enjoy classics like Sudoku, Pac-Man, and Chess with seamless gameplay.  
+- No sign-ups, just pure fun.  
+
 **Lineo**  
 [lineo.vercel.app](https://lineo.vercel.app/)  
 *ReactJS, TypeScript, CSS*
@@ -59,14 +66,7 @@ Jun 2023 – Jul 2023
 [weave.vercel.app](https://weave.vercel.app/)  
 *ReactJS, TypeScript, TailwindCSS*
 - Versatile web builder with drag-and-drop functionality and customizable themes.
-- Ideal for quick website prototyping with elements like headers and testimonials.
-
-**Play Arcade**  
-[playarcade.vercel.app](https://playarcade.vercel.app/)  
-*NextJS, TailwindCSS, Firebase*
-- Interactive arcade featuring games like Sudoku, Pac-Man, and Chess.
-- User login, high score tracking, and leaderboards for competitive play.
-
+- Ideal for quick website prototyping with elements like headers and 
 **Blink Convo**  
 [blinkconvo.vercel.app](https://blinkconvo.vercel.app/)  
 *ReactJS, NodeJS, MongoDB, CSS*
