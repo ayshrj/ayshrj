@@ -51,7 +51,7 @@ Jun 2023 – Jul 2023
 
 **Play Arc**  
 [playarc.vercel.app](https://playarc.vercel.app/)  
-*Next.js, TailwindCSS, Firebase*  
+*Next.js, TailwindCSS*  
 - A sleek, modern, minimalist arcade featuring 20+ interactive games.  
 - Enjoy classics like Sudoku, Pac-Man, and Chess with seamless gameplay.  
 - No sign-ups, just pure fun.  
