@@ -87,8 +87,6 @@ Jun 2023 – Jul 2023
 - **AI-powered `bestMove()` function**  
 - **Event-driven updates** for seamless UI integration 
 
----
-
 ### **@ayshrj/checkers.js**
 [![npm](https://img.shields.io/npm/v/@ayshrj/checkers.js)](https://www.npmjs.com/package/@ayshrj/checkers.js)  
 *A TypeScript library for Checkers with AI support and real-time state management.*  
