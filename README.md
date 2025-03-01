@@ -66,12 +66,37 @@ Jun 2023 – Jul 2023
 [weave.vercel.app](https://weave.vercel.app/)  
 *ReactJS, TypeScript, TailwindCSS*
 - Versatile web builder with drag-and-drop functionality and customizable themes.
-- Ideal for quick website prototyping with elements like headers and 
+- Ideal for quick website prototyping with elements like headers and testimonials.
+ 
 **Blink Convo**  
 [blinkconvo.vercel.app](https://blinkconvo.vercel.app/)  
 *ReactJS, NodeJS, MongoDB, CSS*
 - Real-time chat application with media sharing and customizable avatars.
 - Supports one-on-one conversations with a modern interface.
+
+## npm Libraries  
+
+### **@ayshrj/ludo.js**   
+[![npm](https://img.shields.io/npm/v/@ayshrj/ludo.js)](https://www.npmjs.com/package/@ayshrj/ludo.js)  
+*A TypeScript library to simulate the Ludo board game.*  
+
+**Features:**  
+- Board setup for **2-4 players**  
+- Dice rolling logic with **turn skipping on triple sixes**  
+- **Token movement, safe zones, captures, and rankings**  
+- **AI-powered `bestMove()` function**  
+- **Event-driven updates** for seamless UI integration 
+
+---
+
+### **@ayshrj/checkers.js**
+[![npm](https://img.shields.io/npm/v/@ayshrj/checkers.js)](https://www.npmjs.com/package/@ayshrj/checkers.js)  
+*A TypeScript library for Checkers with AI support and real-time state management.*  
+
+**Features:**  
+- **Full Checkers rules enforcement**  
+- **AI-powered move suggestions (Minimax algorithm)**  
+- **Event-driven updates for seamless UI synchronization**  
 
 ## Skills
 
